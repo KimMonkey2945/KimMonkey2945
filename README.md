@@ -1,4 +1,4 @@
-# welcome Quill GitHub 🏐
+# welcome to Quill GitHub 🏐
 
   개발자라는 직업을 위해 달리고 있습니다.
 
