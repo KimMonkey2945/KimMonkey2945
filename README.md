@@ -2,7 +2,7 @@
 
   개발자라는 직업을 위해 달리고 있습니다.
 
-⚡기술
+<div align=center>⚡기술 </div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  
   <br>
