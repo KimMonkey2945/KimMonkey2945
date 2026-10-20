@@ -4,7 +4,7 @@
 
 **문제를 끝까지 파고드는 백엔드 개발자**  
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@quii_kim)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@quill_kim)
 
 </div>
 
