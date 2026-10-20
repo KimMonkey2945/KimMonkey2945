@@ -27,11 +27,10 @@
 
 ### 🌱 Learning
 
-`Redis` `Kafka` `JPA` `Querydsl` `AWS` `Real MySQL`
+`Redis` `Kafka` `JPA` `Querydsl` `AWS`
 
 ### ✍️ Writing
 
 공부한 내용과 실무 트러블슈팅을 [Velog](https://velog.io/@quill_kim)에 기록하고 있어요.
-
 
 </div>
