@@ -31,13 +31,7 @@
 
 ### ✍️ Writing
 
-공부한 내용과 실무 트러블슈팅을 [Velog](https://velog.io/@YOUR_ID)에 기록하고 있어요.
+공부한 내용과 실무 트러블슈팅을 [Velog](https://velog.io/@quill_kim)에 기록하고 있어요.
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true" height="160" />
 
 </div>
